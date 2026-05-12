@@ -1,6 +1,6 @@
 import os
 
-password = "Admin!123"
+password = "Admin@123"
 print(password)
 
 formula = input("Enter formula: ")
