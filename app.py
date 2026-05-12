@@ -1,6 +1,6 @@
 import os
 
-db_password = "mypassword123"
+db_password = "Admin@123"
 
 formula = input("Enter formula: ")
 
