@@ -1,8 +1,10 @@
 import os
 
-password = "Admin@123"
-print(password)
+aws_access_key_id = "123456789012"
+aws_secret_access_key = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
+aws_session_token = "AQoEXAMPLEH4aoAH0gNCAPyJxz4BlCFFxWNE1OPTgk5TthT+FvwqnKwRcOIfrRh3c/LTo6UDdyJwOOvEVPvLXCrrrUtdnniCEXAMPLE/IvU1dYUg2RVAJBanLiHb4IgRmpRV3zrkuWJOgQs8IZZaIv2BXIa2R4Olgk""
 
+print (aws_session_token, aws_access_key_id)
 formula = input("Enter formula: ")
 
 result = eval(formula)
