@@ -1,0 +1,11 @@
+name: Central Organization Security
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+
+  security-agent:
+    uses: Dhanush2805/Security-Agent/.github/workflows/security-agent.yml@main
