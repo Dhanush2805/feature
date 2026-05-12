@@ -1,10 +1,17 @@
 import os
 
-aws_access_key_id = "AKIAQWERTYUIOPASDF"
+aws_access_key_id = "AKIAIOSFODNN7EXAMPLE"
 
-aws_secret_access_key = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
+aws_secret_access_key = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYzEXAMPLEKEY"
 
-print ("Testing Talisman")
+private_key = """
+-----BEGIN RSA PRIVATE KEY-----
+MIIEowIBAAKCAQEAwFakeKeyTestingOnly123456789
+ZXhhbXBsZWtleQ==
+-----END RSA PRIVATE KEY-----
+"""
+
+print("talisman")
 
 ########################
 
