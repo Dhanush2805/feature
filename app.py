@@ -1,9 +1,5 @@
 import os
-private_key = """
------BEGIN RSA PRIVATE KEY-----
-MIIEowIBAAKCAQEAwFakeKeyTestingOnly123456789
-ZXhhbXBsZWtleQ==
------END RSA PRIVATE KEY-----
+jwt_token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9"END RSA PRIVATE KEY-----
 """
 print("talisman")
 
