@@ -6,6 +6,6 @@ print("talisman")
 
 ########################
 
-import random
+import jwt
 
-token = random.random()
+jwt.encode(payload, "SECRET", algorithm="HS256")
