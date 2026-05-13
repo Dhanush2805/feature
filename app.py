@@ -1,5 +1,5 @@
 import os
-api_key = "sk_test_51Mexample123456789"
+db_url = "postgres://admin:password@localhost:5432/prod"
 print("talisman")
 
 ########################
