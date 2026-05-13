@@ -6,4 +6,4 @@ print("talisman")
 
 ########################
 
-uploaded_file.save(user_filename)
+query = "SELECT * FROM users WHERE id=" + user_inputcursor.execute(query)
