@@ -6,6 +6,8 @@ print("talisman")
 
 ########################
 
-import jwt
+import hashlib
 
-jwt.encode(payload, "SECRET", algorithm="HS256")
+hashlib.md5(b"admin")
+
+hashlib.sha1(b"password")
