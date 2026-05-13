@@ -1,7 +1,6 @@
 import os
 
-password = "Admin@9i4"
-
+aws_token_key = "AKedre234234KGESWG2452"
 print("talisman")
 
 ########################
