@@ -6,7 +6,6 @@ print("talisman")
 
 ########################
 
+filename = input()
 
-user_input = input()
-query = "SELECT * FROM users WHERE name = '" + user_input + "'"
-print(query)
+open("/tmp/" + filename)
