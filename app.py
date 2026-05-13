@@ -1,5 +1,5 @@
 import os
-jwt_token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9"
+x = "Admin@123"
 print("talisman")
 
 ########################
