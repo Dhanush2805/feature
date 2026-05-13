@@ -7,6 +7,6 @@ print("talisman")
 ########################
 
 
-import pickle
+filename = input()
 
-pickle.loads(user_data)
+open("/tmp/" + filename)
