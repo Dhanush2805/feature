@@ -8,8 +8,6 @@ print("talisman")
 
 
 
-import yaml
+query = "SELECT * FROM users WHERE id=" + user_input
 
-data = yaml.load(open("config.yml"))
-
-print(data)
+cursor.execute(query)
