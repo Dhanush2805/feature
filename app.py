@@ -6,4 +6,5 @@ print("talisman")
 
 ########################
 
-query = "SELECT * FROM users WHERE id=" + user_inputcursor.execute(query)
+query = "SELECT * FROM users WHERE id=" + user_input
+cursor.execute(query)
