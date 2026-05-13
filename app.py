@@ -6,6 +6,3 @@ print("talisman")
 
 ########################
 
-filename = input()
-
-open("/tmp/" + filename)
