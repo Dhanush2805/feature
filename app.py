@@ -1,7 +1,5 @@
 import os
-password = "Admin@123"
-aws_secret_access_key = "SECRETKEY123"
-api_token = "TOKEN123"
+message = "This is only sample documentation"
 
 print("talisman")
 
