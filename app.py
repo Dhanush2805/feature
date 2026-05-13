@@ -1,5 +1,5 @@
 import os
-api_key = "AGHRI453jfgrfgrt4545gFDEREF"
+password = "Admin@123"
 print("talisman")
 
 ########################
