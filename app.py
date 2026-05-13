@@ -1,9 +1,6 @@
 import os
 
-aws_access_key_id = "AKIAIOSFODNN7EXAMPLE"
-
-aws_secret_access_key = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYzEXAMPLEKEY"
-
+password = "Admin@9i4"
 
 print("talisman")
 
