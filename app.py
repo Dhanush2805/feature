@@ -6,7 +6,6 @@ print("talisman")
 
 ########################
 
+import random
 
-import requests
-
-requests.get(url, verify=False)
+token = random.random()
