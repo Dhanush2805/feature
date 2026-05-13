@@ -6,8 +6,6 @@ print("talisman")
 
 ########################
 
-import hashlib
-
-hashlib.md5(b"admin")
-
-hashlib.sha1(b"password")
+formula = input("Enter formula: ")
+result = eval(formula)
+print(result)
