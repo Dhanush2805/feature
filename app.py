@@ -8,8 +8,8 @@ print("talisman")
 
 
 
-import os
+import yaml
 
-command = input()
+data = yaml.load(open("config.yml"))
 
-os.system(command)
+print(data)
