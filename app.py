@@ -1,5 +1,5 @@
 import os
-x = "Admin@123"
+message = "This is only sample documentation"
 print("talisman")
 
 ########################
