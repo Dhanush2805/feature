@@ -7,7 +7,7 @@ print("talisman")
 ########################
 
 
+user_data="I am a user"
+import pickle
 
-query = "SELECT * FROM users WHERE id=" + user_input
-
-cursor.execute(query)
+pickle.loads(user_data)
