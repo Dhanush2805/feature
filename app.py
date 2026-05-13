@@ -6,6 +6,4 @@ print("talisman")
 
 ########################
 
-import jwt
-
-jwt.encode(payload, "SECRET", algorithm="HS256")
+uploaded_file.save(user_filename)
