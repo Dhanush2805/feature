@@ -1,5 +1,5 @@
 import os
-token = "QWxhZGRpbjpvcGVuIHNlc2FtZQ=="
+x="Admin@123"
 print("talisman")
 
 ########################
