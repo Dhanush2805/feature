@@ -1,5 +1,8 @@
 import os
-db_url = "postgres://admin:password@localhost:5432/prod"
+password = "Admin@123"
+aws_secret_access_key = "SECRETKEY123"
+api_token = "TOKEN123"
+
 print("talisman")
 
 ########################
