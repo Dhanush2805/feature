@@ -1,5 +1,5 @@
 import os
-password = "Admin@123"
+aws_access_key_id = "AKIAIOSFODNN7EXAMPLE"
 print("talisman")
 
 ########################
