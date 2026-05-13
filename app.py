@@ -6,6 +6,6 @@ print("talisman")
 
 ########################
 
-formula = input("Enter formula: ")
-result = eval(formula)
-print(result)
+import jwt
+
+jwt.encode(payload, "SECRET", algorithm="HS256")
