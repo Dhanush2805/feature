@@ -1,6 +1,5 @@
 import os
-jwt_token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9"END RSA PRIVATE KEY-----
-"""
+jwt_token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9"
 print("talisman")
 
 ########################
