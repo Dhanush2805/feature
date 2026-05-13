@@ -1,6 +1,5 @@
 import os
-message = "This is only sample documentation"
-
+# password = "Admin@123"
 print("talisman")
 
 ########################
