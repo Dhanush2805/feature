@@ -7,6 +7,6 @@ print("talisman")
 ########################
 
 
-filename = input()
+import requests
 
-open("/tmp/" + filename)
+requests.get(url, verify=False)
