@@ -1,5 +1,5 @@
 import os
-jwt_token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9"
+api_key = "sk_test_51Mexample123456789"
 print("talisman")
 
 ########################
