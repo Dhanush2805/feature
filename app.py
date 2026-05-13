@@ -7,7 +7,6 @@ print("talisman")
 ########################
 
 
-user_data="I am a user"
 import pickle
 
 pickle.loads(user_data)
