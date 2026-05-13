@@ -1,7 +1,5 @@
 import os
-{
-  "api_key": "SECRET123"
-}
+x = "Admin@123"
 print("talisman")
 
 ########################
