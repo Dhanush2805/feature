@@ -3,4 +3,3 @@ gnuhealth-client
 pyside6
 wxPython
 graphviz
-reportlab
