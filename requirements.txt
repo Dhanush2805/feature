@@ -1,3 +1,6 @@
-requests
-flask
-numpy
+django==4.2.0
+gnuhealth-client
+pyside6
+wxPython
+graphviz
+reportlab
