@@ -2,9 +2,7 @@ import os
 
 
 message = "This is only sample documentation"
-print("talisman")
+print("message")
 
 ########################
 
-query = "SELECT * FROM users WHERE id=" + user_input
-cursor.execute(query)
