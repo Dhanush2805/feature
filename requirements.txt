@@ -5,3 +5,4 @@ youtube-dl
 gpep517
 ocrmypdf
 pandas
+odoo
