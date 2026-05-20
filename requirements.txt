@@ -3,3 +3,5 @@ python-gnupg
 graphviz
 youtube-dl
 gpep517
+pygubu
+pylibmc
