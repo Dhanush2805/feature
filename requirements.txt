@@ -14,3 +14,5 @@ lxml
 pyqt5
 pyqt6
 sip
+gpodder
+deluge-client
