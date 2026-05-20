@@ -4,3 +4,4 @@ graphviz
 youtube-dl
 gpep517
 ocrmypdf
+pandas
