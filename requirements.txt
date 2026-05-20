@@ -6,3 +6,11 @@ youtube-dl
 ocrmypdf
 pandas
 odoo
+ranger-fm
+trac
+moin
+ajenti
+lxml
+pyqt5
+pyqt6
+sip
